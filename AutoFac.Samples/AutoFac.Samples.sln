@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NamedParameter", "NamedPara
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jewelry", "Jewelry\Jewelry.csproj", "{DFF47A46-113A-4B13-9E18-FEE5158A4CCD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OpenGeneric", "OpenGeneric", "{87ED8038-C4C6-4723-9177-0F151B5D8C59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediator.csproj", "{F09CE389-F269-4758-A189-A36BED51E2E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{DFF47A46-113A-4B13-9E18-FEE5158A4CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFF47A46-113A-4B13-9E18-FEE5158A4CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFF47A46-113A-4B13-9E18-FEE5158A4CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F09CE389-F269-4758-A189-A36BED51E2E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F09CE389-F269-4758-A189-A36BED51E2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F09CE389-F269-4758-A189-A36BED51E2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F09CE389-F269-4758-A189-A36BED51E2E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{C1385D3C-C546-4E55-B3E7-4CFEA7C00496} = {33137336-18FC-48D4-80E9-321C77988B44}
 		{DFF47A46-113A-4B13-9E18-FEE5158A4CCD} = {B3597C1C-422A-4EDA-B5B6-2E46045E4257}
+		{F09CE389-F269-4758-A189-A36BED51E2E8} = {87ED8038-C4C6-4723-9177-0F151B5D8C59}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05D5108D-77A4-414A-BD55-D0BF4545D399}
